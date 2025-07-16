@@ -1,3 +1,3 @@
-# Clique-Gen for Zoning
+# Clique Generation for Zoning
 
 The code will be released soon...
