@@ -1,5 +1,5 @@
 # CliqueGen + ZoningILP for Micro-Transit Zoning
-This repository contains the implementation of the CliqueGen + ZoningILP algorithm for micro-transit zone optimization, as presented in the paper *Optimal Micro-Transit Zoning via Clique Generation and Integer Programming*. The paper has been accepted for IEEE ITSC 2025, and a preprint is available [here](TBD).
+This repository contains the implementation of the CliqueGen + ZoningILP algorithm for micro-transit zone optimization, as presented in the paper *Optimal Micro-Transit Zoning via Clique Generation and Integer Programming*. The paper has been accepted for IEEE ITSC 2025, and a preprint is available [here](https://www.arxiv.org/abs/2509.11445).
 
 ## Contributors
 Hins Hu (zh223@cornell.edu), Rhea Goswami (rkg62@cornell.edu)
